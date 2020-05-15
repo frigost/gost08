@@ -1,0 +1,2 @@
+# gost08
+HWID
